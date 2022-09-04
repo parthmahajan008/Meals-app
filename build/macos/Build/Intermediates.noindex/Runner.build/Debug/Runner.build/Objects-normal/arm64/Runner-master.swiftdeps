@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1661265507, 480947017]
+build_end_time: [1661265510, 993273019]
+inputs:
+  "/Users/parthmahajan/Meals-app/macos/Flutter/GeneratedPluginRegistrant.swift": [1661265498, 514846801]
+  "/Users/parthmahajan/Meals-app/macos/Runner/AppDelegate.swift": [1650309730, 0]
+  "/Users/parthmahajan/Meals-app/macos/Runner/MainFlutterWindow.swift": [1650309730, 0]
